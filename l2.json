@@ -1,0 +1,699 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "ESTACIONS_LINIA.fid-35e5461f_178a08d9a26_-13f2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.244097,
+          41.449054
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "ID_ESTACIO_LINIA": 182,
+        "CODI_ESTACIO_LINIA": 227,
+        "CODI_GRUP_ESTACIO": 6660227,
+        "ID_ESTACIO": 99,
+        "CODI_ESTACIO": 227,
+        "NOM_ESTACIO": "Badalona Pompeu Fabra",
+        "ORDRE_ESTACIO": 18,
+        "ID_LINIA": 6,
+        "CODI_LINIA": 2,
+        "NOM_LINIA": "L2",
+        "ORDRE_LINIA": 2,
+        "ID_TIPUS_SERVEI": 1,
+        "DESC_SERVEI": "Paral·lel - Badalona Pompeu Fabra",
+        "ORIGEN_SERVEI": "Paral·lel",
+        "DESTI_SERVEI": "Badalona Pompeu Fabra",
+        "ID_TIPUS_ACCESSIBILITAT": 1,
+        "NOM_TIPUS_ACCESSIBILITAT": "Accessible",
+        "ID_TIPUS_ESTAT": 1,
+        "NOM_TIPUS_ESTAT": "Operatiu",
+        "DATA_INAUGURACIO": "2010-07-10Z",
+        "DATA": "2021-04-04Z",
+        "COLOR_LINIA": "93248F",
+        "PICTO": "L2",
+        "PICTO_GRUP": "L2"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ESTACIONS_LINIA.fid-35e5461f_178a08d9a26_-13f1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.168243,
+          41.389416
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "ID_ESTACIO_LINIA": 190,
+        "CODI_ESTACIO_LINIA": 213,
+        "CODI_GRUP_ESTACIO": 6660213,
+        "ID_ESTACIO": 111,
+        "CODI_ESTACIO": 213,
+        "NOM_ESTACIO": "Passeig de Gràcia",
+        "ORDRE_ESTACIO": 4,
+        "ID_LINIA": 6,
+        "CODI_LINIA": 2,
+        "NOM_LINIA": "L2",
+        "ORDRE_LINIA": 2,
+        "ID_TIPUS_SERVEI": 1,
+        "DESC_SERVEI": "Paral·lel - Badalona Pompeu Fabra",
+        "ORIGEN_SERVEI": "Paral·lel",
+        "DESTI_SERVEI": "Badalona Pompeu Fabra",
+        "ID_TIPUS_ACCESSIBILITAT": 1,
+        "NOM_TIPUS_ACCESSIBILITAT": "Accessible",
+        "ID_TIPUS_ESTAT": 1,
+        "NOM_TIPUS_ESTAT": "Operatiu",
+        "DATA_INAUGURACIO": "1995-09-24Z",
+        "DATA": "2021-04-04Z",
+        "COLOR_LINIA": "93248F",
+        "PICTO": "L2",
+        "PICTO_GRUP": "L2L3L4"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ESTACIONS_LINIA.fid-35e5461f_178a08d9a26_-13f0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1827,
+          41.407236
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "ID_ESTACIO_LINIA": 191,
+        "CODI_ESTACIO_LINIA": 217,
+        "CODI_GRUP_ESTACIO": 6660217,
+        "ID_ESTACIO": 112,
+        "CODI_ESTACIO": 217,
+        "NOM_ESTACIO": "Encants",
+        "ORDRE_ESTACIO": 8,
+        "ID_LINIA": 6,
+        "CODI_LINIA": 2,
+        "NOM_LINIA": "L2",
+        "ORDRE_LINIA": 2,
+        "ID_TIPUS_SERVEI": 1,
+        "DESC_SERVEI": "Paral·lel - Badalona Pompeu Fabra",
+        "ORIGEN_SERVEI": "Paral·lel",
+        "DESTI_SERVEI": "Badalona Pompeu Fabra",
+        "ID_TIPUS_ACCESSIBILITAT": 1,
+        "NOM_TIPUS_ACCESSIBILITAT": "Accessible",
+        "ID_TIPUS_ESTAT": 1,
+        "NOM_TIPUS_ESTAT": "Operatiu",
+        "DATA_INAUGURACIO": "1997-09-19Z",
+        "DATA": "2021-04-04Z",
+        "COLOR_LINIA": "93248F",
+        "PICTO": "L2",
+        "PICTO_GRUP": "L2"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ESTACIONS_LINIA.fid-35e5461f_178a08d9a26_-13ef",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.228606,
+          41.435831
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "ID_ESTACIO_LINIA": 193,
+        "CODI_ESTACIO_LINIA": 224,
+        "CODI_GRUP_ESTACIO": 6660224,
+        "ID_ESTACIO": 114,
+        "CODI_ESTACIO": 224,
+        "NOM_ESTACIO": "Sant Roc",
+        "ORDRE_ESTACIO": 15,
+        "ID_LINIA": 6,
+        "CODI_LINIA": 2,
+        "NOM_LINIA": "L2",
+        "ORDRE_LINIA": 2,
+        "ID_TIPUS_SERVEI": 1,
+        "DESC_SERVEI": "Paral·lel - Badalona Pompeu Fabra",
+        "ORIGEN_SERVEI": "Paral·lel",
+        "DESTI_SERVEI": "Badalona Pompeu Fabra",
+        "ID_TIPUS_ACCESSIBILITAT": 1,
+        "NOM_TIPUS_ACCESSIBILITAT": "Accessible",
+        "ID_TIPUS_ESTAT": 1,
+        "NOM_TIPUS_ESTAT": "Operatiu",
+        "DATA_INAUGURACIO": "1985-04-21Z",
+        "DATA": "2021-04-04Z",
+        "COLOR_LINIA": "93248F",
+        "PICTO": "L2",
+        "PICTO_GRUP": "L2"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ESTACIONS_LINIA.fid-35e5461f_178a08d9a26_-13ee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.237959,
+          41.443905
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "ID_ESTACIO_LINIA": 194,
+        "CODI_ESTACIO_LINIA": 226,
+        "CODI_GRUP_ESTACIO": 6660226,
+        "ID_ESTACIO": 115,
+        "CODI_ESTACIO": 226,
+        "NOM_ESTACIO": "Pep Ventura",
+        "ORDRE_ESTACIO": 17,
+        "ID_LINIA": 6,
+        "CODI_LINIA": 2,
+        "NOM_LINIA": "L2",
+        "ORDRE_LINIA": 2,
+        "ID_TIPUS_SERVEI": 1,
+        "DESC_SERVEI": "Paral·lel - Badalona Pompeu Fabra",
+        "ORIGEN_SERVEI": "Paral·lel",
+        "DESTI_SERVEI": "Badalona Pompeu Fabra",
+        "ID_TIPUS_ACCESSIBILITAT": 1,
+        "NOM_TIPUS_ACCESSIBILITAT": "Accessible",
+        "ID_TIPUS_ESTAT": 1,
+        "NOM_TIPUS_ESTAT": "Operatiu",
+        "DATA_INAUGURACIO": "1985-04-21Z",
+        "DATA": "2021-04-04Z",
+        "COLOR_LINIA": "93248F",
+        "PICTO": "L2",
+        "PICTO_GRUP": "L2"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ESTACIONS_LINIA.fid-35e5461f_178a08d9a26_-13ed",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.163241,
+          41.379833
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "ID_ESTACIO_LINIA": 206,
+        "CODI_ESTACIO_LINIA": 211,
+        "CODI_GRUP_ESTACIO": 6660211,
+        "ID_ESTACIO": 131,
+        "CODI_ESTACIO": 211,
+        "NOM_ESTACIO": "Sant Antoni",
+        "ORDRE_ESTACIO": 2,
+        "ID_LINIA": 6,
+        "CODI_LINIA": 2,
+        "NOM_LINIA": "L2",
+        "ORDRE_LINIA": 2,
+        "ID_TIPUS_SERVEI": 1,
+        "DESC_SERVEI": "Paral·lel - Badalona Pompeu Fabra",
+        "ORIGEN_SERVEI": "Paral·lel",
+        "DESTI_SERVEI": "Badalona Pompeu Fabra",
+        "ID_TIPUS_ACCESSIBILITAT": 1,
+        "NOM_TIPUS_ACCESSIBILITAT": "Accessible",
+        "ID_TIPUS_ESTAT": 1,
+        "NOM_TIPUS_ESTAT": "Operatiu",
+        "DATA_INAUGURACIO": "1995-09-24Z",
+        "DATA": "2021-04-04Z",
+        "COLOR_LINIA": "93248F",
+        "PICTO": "L2",
+        "PICTO_GRUP": "L2"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ESTACIONS_LINIA.fid-35e5461f_178a08d9a26_-13ec",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.163913,
+          41.384768
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "ID_ESTACIO_LINIA": 138,
+        "CODI_ESTACIO_LINIA": 212,
+        "CODI_GRUP_ESTACIO": 6660125,
+        "ID_ESTACIO": 52,
+        "CODI_ESTACIO": 212,
+        "NOM_ESTACIO": "Universitat",
+        "ORDRE_ESTACIO": 3,
+        "ID_LINIA": 6,
+        "CODI_LINIA": 2,
+        "NOM_LINIA": "L2",
+        "ORDRE_LINIA": 2,
+        "ID_TIPUS_SERVEI": 1,
+        "DESC_SERVEI": "Paral·lel - Badalona Pompeu Fabra",
+        "ORIGEN_SERVEI": "Paral·lel",
+        "DESTI_SERVEI": "Badalona Pompeu Fabra",
+        "ID_TIPUS_ACCESSIBILITAT": 1,
+        "NOM_TIPUS_ACCESSIBILITAT": "Accessible",
+        "ID_TIPUS_ESTAT": 1,
+        "NOM_TIPUS_ESTAT": "Operatiu",
+        "DATA_INAUGURACIO": "1995-09-24Z",
+        "DATA": "2021-04-04Z",
+        "COLOR_LINIA": "93248F",
+        "PICTO": "L2",
+        "PICTO_GRUP": "L1L2"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ESTACIONS_LINIA.fid-35e5461f_178a08d9a26_-13eb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.195503,
+          41.415162
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "ID_ESTACIO_LINIA": 192,
+        "CODI_ESTACIO_LINIA": 219,
+        "CODI_GRUP_ESTACIO": 6660219,
+        "ID_ESTACIO": 113,
+        "CODI_ESTACIO": 219,
+        "NOM_ESTACIO": "Bac de Roda",
+        "ORDRE_ESTACIO": 10,
+        "ID_LINIA": 6,
+        "CODI_LINIA": 2,
+        "NOM_LINIA": "L2",
+        "ORDRE_LINIA": 2,
+        "ID_TIPUS_SERVEI": 1,
+        "DESC_SERVEI": "Paral·lel - Badalona Pompeu Fabra",
+        "ORIGEN_SERVEI": "Paral·lel",
+        "DESTI_SERVEI": "Badalona Pompeu Fabra",
+        "ID_TIPUS_ACCESSIBILITAT": 1,
+        "NOM_TIPUS_ACCESSIBILITAT": "Accessible",
+        "ID_TIPUS_ESTAT": 1,
+        "NOM_TIPUS_ESTAT": "Operatiu",
+        "DATA_INAUGURACIO": "1997-09-19Z",
+        "DATA": "2021-04-04Z",
+        "COLOR_LINIA": "93248F",
+        "PICTO": "L2",
+        "PICTO_GRUP": "L2"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ESTACIONS_LINIA.fid-35e5461f_178a08d9a26_-13ea",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.217772,
+          41.433848
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "ID_ESTACIO_LINIA": 211,
+        "CODI_ESTACIO_LINIA": 223,
+        "CODI_GRUP_ESTACIO": 6660223,
+        "ID_ESTACIO": 136,
+        "CODI_ESTACIO": 223,
+        "NOM_ESTACIO": "Artigues | Sant Adrià",
+        "ORDRE_ESTACIO": 14,
+        "ID_LINIA": 6,
+        "CODI_LINIA": 2,
+        "NOM_LINIA": "L2",
+        "ORDRE_LINIA": 2,
+        "ID_TIPUS_SERVEI": 1,
+        "DESC_SERVEI": "Paral·lel - Badalona Pompeu Fabra",
+        "ORIGEN_SERVEI": "Paral·lel",
+        "DESTI_SERVEI": "Badalona Pompeu Fabra",
+        "ID_TIPUS_ACCESSIBILITAT": 1,
+        "NOM_TIPUS_ACCESSIBILITAT": "Accessible",
+        "ID_TIPUS_ESTAT": 1,
+        "NOM_TIPUS_ESTAT": "Operatiu",
+        "DATA_INAUGURACIO": "1985-04-21Z",
+        "DATA": "2021-04-04Z",
+        "COLOR_LINIA": "93248F",
+        "PICTO": "L2",
+        "PICTO_GRUP": "L2"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ESTACIONS_LINIA.fid-35e5461f_178a08d9a26_-13e9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.209883,
+          41.430004
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "ID_ESTACIO_LINIA": 144,
+        "CODI_ESTACIO_LINIA": 222,
+        "CODI_GRUP_ESTACIO": 6660222,
+        "ID_ESTACIO": 58,
+        "CODI_ESTACIO": 222,
+        "NOM_ESTACIO": "Verneda",
+        "ORDRE_ESTACIO": 13,
+        "ID_LINIA": 6,
+        "CODI_LINIA": 2,
+        "NOM_LINIA": "L2",
+        "ORDRE_LINIA": 2,
+        "ID_TIPUS_SERVEI": 1,
+        "DESC_SERVEI": "Paral·lel - Badalona Pompeu Fabra",
+        "ORIGEN_SERVEI": "Paral·lel",
+        "DESTI_SERVEI": "Badalona Pompeu Fabra",
+        "ID_TIPUS_ACCESSIBILITAT": 1,
+        "NOM_TIPUS_ACCESSIBILITAT": "Accessible",
+        "ID_TIPUS_ESTAT": 1,
+        "NOM_TIPUS_ESTAT": "Operatiu",
+        "DATA_INAUGURACIO": "1985-04-21Z",
+        "DATA": "2021-04-04Z",
+        "COLOR_LINIA": "93248F",
+        "PICTO": "L2",
+        "PICTO_GRUP": "L2"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ESTACIONS_LINIA.fid-35e5461f_178a08d9a26_-13e8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.169117,
+          41.375004
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "ID_ESTACIO_LINIA": 189,
+        "CODI_ESTACIO_LINIA": 210,
+        "CODI_GRUP_ESTACIO": 6660210,
+        "ID_ESTACIO": 110,
+        "CODI_ESTACIO": 210,
+        "NOM_ESTACIO": "Paral·lel",
+        "ORDRE_ESTACIO": 1,
+        "ID_LINIA": 6,
+        "CODI_LINIA": 2,
+        "NOM_LINIA": "L2",
+        "ORDRE_LINIA": 2,
+        "ID_TIPUS_SERVEI": 1,
+        "DESC_SERVEI": "Paral·lel - Badalona Pompeu Fabra",
+        "ORIGEN_SERVEI": "Paral·lel",
+        "DESTI_SERVEI": "Badalona Pompeu Fabra",
+        "ID_TIPUS_ACCESSIBILITAT": 1,
+        "NOM_TIPUS_ACCESSIBILITAT": "Accessible",
+        "ID_TIPUS_ESTAT": 1,
+        "NOM_TIPUS_ESTAT": "Operatiu",
+        "DATA_INAUGURACIO": "1995-12-30Z",
+        "DATA": "2021-04-04Z",
+        "COLOR_LINIA": "93248F",
+        "PICTO": "L2",
+        "PICTO_GRUP": "L2L3FM"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ESTACIONS_LINIA.fid-35e5461f_178a08d9a26_-13e7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.205608,
+          41.424033
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "ID_ESTACIO_LINIA": 143,
+        "CODI_ESTACIO_LINIA": 221,
+        "CODI_GRUP_ESTACIO": 6660221,
+        "ID_ESTACIO": 57,
+        "CODI_ESTACIO": 221,
+        "NOM_ESTACIO": "La Pau",
+        "ORDRE_ESTACIO": 12,
+        "ID_LINIA": 6,
+        "CODI_LINIA": 2,
+        "NOM_LINIA": "L2",
+        "ORDRE_LINIA": 2,
+        "ID_TIPUS_SERVEI": 1,
+        "DESC_SERVEI": "Paral·lel - Badalona Pompeu Fabra",
+        "ORIGEN_SERVEI": "Paral·lel",
+        "DESTI_SERVEI": "Badalona Pompeu Fabra",
+        "ID_TIPUS_ACCESSIBILITAT": 1,
+        "NOM_TIPUS_ACCESSIBILITAT": "Accessible",
+        "ID_TIPUS_ESTAT": 1,
+        "NOM_TIPUS_ESTAT": "Operatiu",
+        "DATA_INAUGURACIO": "1997-09-19Z",
+        "DATA": "2021-04-04Z",
+        "COLOR_LINIA": "93248F",
+        "PICTO": "L2",
+        "PICTO_GRUP": "L2L4"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ESTACIONS_LINIA.fid-35e5461f_178a08d9a26_-13e6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.175559,
+          41.394887
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "ID_ESTACIO_LINIA": 139,
+        "CODI_ESTACIO_LINIA": 214,
+        "CODI_GRUP_ESTACIO": 6660214,
+        "ID_ESTACIO": 53,
+        "CODI_ESTACIO": 214,
+        "NOM_ESTACIO": "Tetuan",
+        "ORDRE_ESTACIO": 5,
+        "ID_LINIA": 6,
+        "CODI_LINIA": 2,
+        "NOM_LINIA": "L2",
+        "ORDRE_LINIA": 2,
+        "ID_TIPUS_SERVEI": 1,
+        "DESC_SERVEI": "Paral·lel - Badalona Pompeu Fabra",
+        "ORIGEN_SERVEI": "Paral·lel",
+        "DESTI_SERVEI": "Badalona Pompeu Fabra",
+        "ID_TIPUS_ACCESSIBILITAT": 1,
+        "NOM_TIPUS_ACCESSIBILITAT": "Accessible",
+        "ID_TIPUS_ESTAT": 1,
+        "NOM_TIPUS_ESTAT": "Operatiu",
+        "DATA_INAUGURACIO": "1995-09-24Z",
+        "DATA": "2021-04-04Z",
+        "COLOR_LINIA": "93248F",
+        "PICTO": "L2",
+        "PICTO_GRUP": "L2"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ESTACIONS_LINIA.fid-35e5461f_178a08d9a26_-13e5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.179462,
+          41.400524
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "ID_ESTACIO_LINIA": 140,
+        "CODI_ESTACIO_LINIA": 215,
+        "CODI_GRUP_ESTACIO": 6660215,
+        "ID_ESTACIO": 54,
+        "CODI_ESTACIO": 215,
+        "NOM_ESTACIO": "Monumental",
+        "ORDRE_ESTACIO": 6,
+        "ID_LINIA": 6,
+        "CODI_LINIA": 2,
+        "NOM_LINIA": "L2",
+        "ORDRE_LINIA": 2,
+        "ID_TIPUS_SERVEI": 1,
+        "DESC_SERVEI": "Paral·lel - Badalona Pompeu Fabra",
+        "ORIGEN_SERVEI": "Paral·lel",
+        "DESTI_SERVEI": "Badalona Pompeu Fabra",
+        "ID_TIPUS_ACCESSIBILITAT": 1,
+        "NOM_TIPUS_ACCESSIBILITAT": "Accessible",
+        "ID_TIPUS_ESTAT": 1,
+        "NOM_TIPUS_ESTAT": "Operatiu",
+        "DATA_INAUGURACIO": "1995-09-24Z",
+        "DATA": "2021-04-04Z",
+        "COLOR_LINIA": "93248F",
+        "PICTO": "L2",
+        "PICTO_GRUP": "L2"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ESTACIONS_LINIA.fid-35e5461f_178a08d9a26_-13e4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.186835,
+          41.410358
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "ID_ESTACIO_LINIA": 141,
+        "CODI_ESTACIO_LINIA": 218,
+        "CODI_GRUP_ESTACIO": 6660131,
+        "ID_ESTACIO": 55,
+        "CODI_ESTACIO": 218,
+        "NOM_ESTACIO": "Clot",
+        "ORDRE_ESTACIO": 9,
+        "ID_LINIA": 6,
+        "CODI_LINIA": 2,
+        "NOM_LINIA": "L2",
+        "ORDRE_LINIA": 2,
+        "ID_TIPUS_SERVEI": 1,
+        "DESC_SERVEI": "Paral·lel - Badalona Pompeu Fabra",
+        "ORIGEN_SERVEI": "Paral·lel",
+        "DESTI_SERVEI": "Badalona Pompeu Fabra",
+        "ID_TIPUS_ACCESSIBILITAT": 1,
+        "NOM_TIPUS_ACCESSIBILITAT": "Accessible",
+        "ID_TIPUS_ESTAT": 1,
+        "NOM_TIPUS_ESTAT": "Operatiu",
+        "DATA_INAUGURACIO": "1997-09-19Z",
+        "DATA": "2021-04-04Z",
+        "COLOR_LINIA": "93248F",
+        "PICTO": "L2",
+        "PICTO_GRUP": "L1L2"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ESTACIONS_LINIA.fid-35e5461f_178a08d9a26_-13e3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.200724,
+          41.419064
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "ID_ESTACIO_LINIA": 142,
+        "CODI_ESTACIO_LINIA": 220,
+        "CODI_GRUP_ESTACIO": 6660220,
+        "ID_ESTACIO": 56,
+        "CODI_ESTACIO": 220,
+        "NOM_ESTACIO": "Sant Martí",
+        "ORDRE_ESTACIO": 11,
+        "ID_LINIA": 6,
+        "CODI_LINIA": 2,
+        "NOM_LINIA": "L2",
+        "ORDRE_LINIA": 2,
+        "ID_TIPUS_SERVEI": 1,
+        "DESC_SERVEI": "Paral·lel - Badalona Pompeu Fabra",
+        "ORIGEN_SERVEI": "Paral·lel",
+        "DESTI_SERVEI": "Badalona Pompeu Fabra",
+        "ID_TIPUS_ACCESSIBILITAT": 1,
+        "NOM_TIPUS_ACCESSIBILITAT": "Accessible",
+        "ID_TIPUS_ESTAT": 1,
+        "NOM_TIPUS_ESTAT": "Operatiu",
+        "DATA_INAUGURACIO": "1997-09-19Z",
+        "DATA": "2021-04-04Z",
+        "COLOR_LINIA": "93248F",
+        "PICTO": "L2",
+        "PICTO_GRUP": "L2"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ESTACIONS_LINIA.fid-35e5461f_178a08d9a26_-13e2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.233441,
+          41.440237
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "ID_ESTACIO_LINIA": 145,
+        "CODI_ESTACIO_LINIA": 225,
+        "CODI_GRUP_ESTACIO": 6660225,
+        "ID_ESTACIO": 59,
+        "CODI_ESTACIO": 225,
+        "NOM_ESTACIO": "Gorg",
+        "ORDRE_ESTACIO": 16,
+        "ID_LINIA": 6,
+        "CODI_LINIA": 2,
+        "NOM_LINIA": "L2",
+        "ORDRE_LINIA": 2,
+        "ID_TIPUS_SERVEI": 1,
+        "DESC_SERVEI": "Paral·lel - Badalona Pompeu Fabra",
+        "ORIGEN_SERVEI": "Paral·lel",
+        "DESTI_SERVEI": "Badalona Pompeu Fabra",
+        "ID_TIPUS_ACCESSIBILITAT": 1,
+        "NOM_TIPUS_ACCESSIBILITAT": "Accessible",
+        "ID_TIPUS_ESTAT": 1,
+        "NOM_TIPUS_ESTAT": "Operatiu",
+        "DATA_INAUGURACIO": "1985-04-21Z",
+        "DATA": "2021-04-04Z",
+        "COLOR_LINIA": "93248F",
+        "PICTO": "L2",
+        "PICTO_GRUP": "L2L10N"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ESTACIONS_LINIA.fid-35e5461f_178a08d9a26_-13e1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.175106,
+          41.403985
+        ]
+      },
+      "geometry_name": "GEOMETRY",
+      "properties": {
+        "ID_ESTACIO_LINIA": 150,
+        "CODI_ESTACIO_LINIA": 216,
+        "CODI_GRUP_ESTACIO": 6660216,
+        "ID_ESTACIO": 64,
+        "CODI_ESTACIO": 216,
+        "NOM_ESTACIO": "Sagrada Família",
+        "ORDRE_ESTACIO": 7,
+        "ID_LINIA": 6,
+        "CODI_LINIA": 2,
+        "NOM_LINIA": "L2",
+        "ORDRE_LINIA": 2,
+        "ID_TIPUS_SERVEI": 1,
+        "DESC_SERVEI": "Paral·lel - Badalona Pompeu Fabra",
+        "ORIGEN_SERVEI": "Paral·lel",
+        "DESTI_SERVEI": "Badalona Pompeu Fabra",
+        "ID_TIPUS_ACCESSIBILITAT": 1,
+        "NOM_TIPUS_ACCESSIBILITAT": "Accessible",
+        "ID_TIPUS_ESTAT": 1,
+        "NOM_TIPUS_ESTAT": "Operatiu",
+        "DATA_INAUGURACIO": "1995-09-24Z",
+        "DATA": "2021-04-04Z",
+        "COLOR_LINIA": "93248F",
+        "PICTO": "L2",
+        "PICTO_GRUP": "L2L5"
+      }
+    }
+  ],
+  "totalFeatures": 18,
+  "numberMatched": 18,
+  "numberReturned": 18,
+  "timeStamp": "2021-04-05T06:27:03.700Z",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::4326"
+    }
+  }
+}
